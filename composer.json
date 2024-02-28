@@ -10,7 +10,7 @@
     }],
     "require": {
         "getkirby/composer-installer": "^1.2",
-        "getkirby/cms": "4.0.2"
+        "getkirby/cms": "4.1.*"
     },
     "config": {
         "allow-plugins": {
